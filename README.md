@@ -1,6 +1,6 @@
 # [InfoTrove]
 
-Created by [Mohamed Sy], [Ahmad Hamza].
+Created by Mohamed Sy, Ahmad Hamza.
 
 ## 🚀 Mission statement
 
@@ -8,7 +8,7 @@ Our application InfoTrove is for people who seek daily reads. with a wide variet
 
 ## API
 
-This application will use the [name of API] API. Below are the documentation and specific endpoints we intend to use.
+This application will use the New York Time's API. Below are the documentation and specific endpoints we intend to use.
 
 - Link to API documentation: [Link goes here]
 - [API endpoint #1]
